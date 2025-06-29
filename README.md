@@ -52,8 +52,8 @@ Ikuti langkah-langkah di bawah ini untuk mengatur dan menjalankan bot Anda:
 1.  **Kloning repositori ini (atau buat file secara manual):**
 
     ```bash
-    git clone <URL_REPOSITORI_ANDA>
-    cd your_project
+    git clone https://github.com/mhmmadeffan/Growtopia-Server-Status
+    cd Growtopia-Server-Status
     ```
 
     Jika Anda membuat file secara manual, pastikan Anda memiliki struktur direktori seperti yang dijelaskan di bagian "Struktur Proyek".
