@@ -1,8 +1,6 @@
 # Growtopia-Server-Status
 Menampilkan Total Players Online, World of The Day, Growtopia Time/Date, Dengan Menggunakan Command Discord Bot. Live Demo: https://dsc.gg/fanking
 
-# Growtopia Status Discord Bot
-
 Bot Discord ini memungkinkan Anda untuk memeriksa status server Growtopia, termasuk jumlah pengguna online, World of the Day (WOTD), serta waktu dan tanggal Growtopia saat ini.
 
 -----
