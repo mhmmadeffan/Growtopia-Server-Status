@@ -10,7 +10,6 @@ Bot Discord ini memungkinkan Anda untuk memeriksa status server Growtopia, terma
   * Menampilkan jumlah **pengguna online** di Growtopia.
   * Menunjukkan **World of the Day (WOTD)** saat ini.
   * Menyediakan **waktu dan tanggal Growtopia** yang disinkronkan dengan zona waktu New York.
-  * Menampilkan **gambar WOTD** sebagai thumbnail embed (jika tersedia).
   * Menangani kesalahan API dengan menampilkan data fallback.
 
 -----
