@@ -1,9 +1,5 @@
 # Growtopia-Server-Status
 Menampilkan Total Players Online, World of The Day, Growtopia Time/Date, Dengan Menggunakan Command Discord Bot. Live Demo: https://dsc.gg/fanking
-Tentu, ini adalah contoh `README.md` yang menjelaskan cara menggunakan skrip Discord bot Anda, lengkap dengan contoh kode.
-
-
------
 
 # Growtopia Status Discord Bot
 
